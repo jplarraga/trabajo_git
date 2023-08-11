@@ -1,3 +1,9 @@
-# INTEGRANTES:
+# TRABAJO GRUPAL GITHUB
 
-## Freddy Hernandez
+Este trabajo está conformado por:
+## Freddy Hernández
+## Juan Lárraga
+
+
+
+# Nombre del repositorio: trabajo_git
